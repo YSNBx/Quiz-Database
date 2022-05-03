@@ -1,6 +1,4 @@
-package engine;
-
-import engine.Quiz;
+package quiz.engine;
 
 import java.util.List;
 import java.util.Optional;

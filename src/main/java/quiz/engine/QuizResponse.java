@@ -1,4 +1,4 @@
-package engine;
+package quiz.engine;
 
 import org.springframework.stereotype.Component;
 

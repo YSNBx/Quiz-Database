@@ -1,6 +1,5 @@
-package engine;
+package quiz.engine;
 
-import engine.Quiz;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
